@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "demo-face-gan"
-version = "0.1.0"
+version = "1.4.1"
 description = "Demonstrates creating faces with a GAN"
 authors = ["Adrien Treuille <adrien.g.treuille@gmail.com>"]
 
